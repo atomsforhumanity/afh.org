@@ -39,6 +39,9 @@ United States
 **GitHub:**
 https://github.com/atomsforhumanity
 
+**Findings:**
+https://findings.afh.org
+
 **LinkedIn:**
 https://www.linkedin.com/company/atoms-for-humanity
 
@@ -165,6 +168,8 @@ Top-right CTA:
 **Make a Donation**
 
 Also include a GitHub icon/link where appropriate.
+
+After the divider and before GitHub, link **Findings** (https://findings.afh.org), where AFH publishes research results as they come.
 
 Do not create empty pages for future programs.
 
